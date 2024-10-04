@@ -31,6 +31,9 @@
 
 ## How to Use:
 To use Sudoku Solver, simply download the repository and run the SudokuGUI.py file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
+<p align="center">
+	<img src="">
+</p>
 
 If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
