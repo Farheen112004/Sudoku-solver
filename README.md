@@ -38,7 +38,7 @@ To use Sudoku Solver, simply download the repository and run the SudokuGUI.py fi
 If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
 <p align="center">
-	<img src="https://github.com/Farheen112004/Sudoku-solver/blob/main/Visualizer.gif">
+	<img src="https://github.com/Farheen112004/Sudoku-solver/blob/main/assets/Visualizer.gif">
 </p>
 
 ## Input:
